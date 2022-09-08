@@ -1,0 +1,174 @@
+{
+    "id": "5c40a6dd00a56b36213102e4",
+    "aaId": "5d4a9f1f0aaab10c537f8cd5",
+    "activityBlocked": false,
+    "avatarHash": "1eca3c75da45242d53ea0e00c2db76c7",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/5c40a6dd00a56b36213102e4/1eca3c75da45242d53ea0e00c2db76c7",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "sara_",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "S",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/saraebrahim4",
+    "username": "saraebrahim4",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": "m.saraebrahim@gmail.com",
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "m.saraebrahim@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "34103612d2dc9eed41436509a32dd4c9",
+    "idBoards": [
+        "5c9106d994e4d68559c09847",
+        "62f0520caf182b8380721186",
+        "62f4665cd8b67600df3d016b",
+        "62f466e2f615d700c19cc73a",
+        "62f7fbff0cba480092b0b846",
+        "62f805d23f7d990018b80534",
+        "62f80b193105880071649e28",
+        "62f80b30bfdb5a00e0524f15",
+        "62f80e2616bba700a9f44a83",
+        "62f93d4ea99855009b67677e",
+        "62f956a84afa830060392343",
+        "6300603305767e007d9f6988",
+        "63006081849686001885ef95",
+        "63006c6ac1a12000699a919c",
+        "63006e3cd547080078753fea",
+        "63006e5a4bb1d3006998a0cb",
+        "63006e9706b66b0044f837eb",
+        "63006eaacc06920062016633",
+        "63006ee0468968006e70b6a6",
+        "630071ff67806f008ccd3e78"
+    ],
+    "idOrganizations": [
+        "5c40a79fa54e6142847e2b71",
+        "60cb617dbf6e9528fec40291"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "google",
+        "atlassian",
+        "password"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2019-01-17T16:06:27.181Z"
+    },
+    "messagesDismissed": [
+        {
+            "name": "ad-security-features",
+            "count": 1,
+            "lastDismissed": "2019-01-17T16:06:46.848Z",
+            "_id": "5c40a8169b3fba3f68418d9b"
+        },
+        {
+            "name": "ad-collection-features",
+            "count": 1,
+            "lastDismissed": "2019-01-17T16:07:14.923Z",
+            "_id": "5c40a832adbd77393a31f09a"
+        },
+        {
+            "name": "feedback-card-home-page-internal",
+            "count": 1,
+            "lastDismissed": "2019-01-20T16:32:34.501Z",
+            "_id": "5c44a2a2ec8fc374793d9a54"
+        },
+        {
+            "_id": "5d5bd5bcb773002f1ce78a39",
+            "name": "team-join-cta-banner-5c40a79fa54e6142847e2b71",
+            "count": 1,
+            "lastDismissed": "2019-08-20T11:13:00.878Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "simplified-view-full-view",
+        "create-first-board",
+        "simplified-view-org-settings",
+        "simplified-view-card-activity",
+        "simplified-view-card-move",
+        "simplified-view-labels-and-edit",
+        "notifications-onboarding",
+        "close-menu-of-first-board",
+        "BoardLimitsGracePeriod",
+        "team-boards-join-link-banner-5c40a79fa54e6142847e2b71",
+        "60cb617dbf6e9528fec40291-memberHomeScreenPromptFull",
+        "ack-new-feature-WorkspaceLinks-1660168800000",
+        "team-template-picker-62f0516b40297c2e0c465c57",
+        "team-template-picker-60cb617dbf6e9528fec40291",
+        "ack-new-feature-WorkspaceLinks-1661724000000"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "424",
+    "boards": [
+        {
+            "id": "630071ff67806f008ccd3e78",
+            "name": "\"testAPI\"",
+            "closed": false,
+            "idOrganization": "60cb617dbf6e9528fec40291",
+            "pinned": false
+        },
+        {
+            "id": "62f805d23f7d990018b80534",
+            "name": "UDACITYAPITRLLO",
+            "closed": false,
+            "idOrganization": "60cb617dbf6e9528fec40291",
+            "pinned": false
+        },
+        {
+            "id": "5c9106d994e4d68559c09847",
+            "name": "old Mirsal",
+            "closed": false,
+            "idOrganization": "5c90c283db3f0f6f0dbc2e56",
+            "pinned": false
+        }
+    ]
+}
